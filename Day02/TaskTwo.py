@@ -29,4 +29,3 @@ with open("input.txt", "r") as f:
                     break
 
 print(total)
-
